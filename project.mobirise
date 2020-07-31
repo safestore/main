@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "cookie.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -78,10 +78,10 @@
         }
       ]
     },
-    "page1.html": {
+    "cookie.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Page 1",
+        "meta_descr": "Verify cookie",
+        "title": "Store",
         "order": 1
       },
       "components": [
